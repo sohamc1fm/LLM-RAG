@@ -1,0 +1,48 @@
+''Neuroscience, also known as Neural Science, is the study of how the nervous system develops, its structure, and what it does.
+
+Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Not only is neuroscience concerned with the normal functioning of the nervous system, but also what happens to the nervous system when people have neurological, psychiatric and neurodevelopmental disorders.
+
+Neuroscience is often referred to in the plural, as neurosciences.
+
+Neuroscience has traditionally been classed as a subdivision of biology. These days, it is an interdisciplinary science which liaises closely with other disciplines, such as mathematics, linguistics, engineering, computer science, chemistry, philosophy, psychology, and medicine.
+
+Many researchers say that neuroscience means the same as neurobiology. However, neurobiology looks at the biology of the nervous system, while neuroscience refers to anything to do with the nervous system.
+
+Neuroscientists are involved in a much wider scope of fields today than before. They study the cellular, functional, evolutionary, computational, molecular, cellular and medical aspects of the nervous system.
+
+The major branches of modern neuroscience
+The following branches of neuroscience, based on research areas and subjects of study can be broadly categorized in the following disciplines (neuroscientists usually cover several branches at the same time):
+
+Affective neuroscience – in most cases, research is carried out on laboratory animals and looks at how neurons behave in relation to emotions.
+
+Behavioral neuroscience – the study of the biological bases of behavior. Looking at how the brain affects behavior.
+
+Cellular neuroscience – the study of neurons, including their form and physiological properties at cellular level.
+
+Clinical neuroscience – looks at the disorders of the nervous system, while psychiatry, for example, looks at the disorders of the mind.
+
+Cognitive neuroscience – the study of higher cognitive functions that exist in humans, and their underlying neural bases. Cognitive neuroscience draws from linguistics, neuroscience, psychology and cognitive science. Cognitive neuroscientists can take two broad directions; behavioral/experimental or computational/modeling, the aim being to understand the nature of cognition from a neural point of view.
+
+Computational neuroscience – attempting to understand how brains compute, using computers to simulate and model brain functions, and applying techniques from mathematics, physics and other computational fields to study brain function.
+
+Cultural neuroscience – looks at how beliefs, practices and cultural values are shaped by and shape the brain, minds and genes over different periods.
+
+Developmental neuroscience – looks at how the nervous system develops on a cellular basis; what underlying mechanisms exist in neural development.
+
+Molecular neuroscience – the study of the role of individual molecules in the nervous system.
+
+Neuroengineering – using engineering techniques to better understand, replace, repair, or improve neural systems.
+
+Neuroimaging – a branch of medical imaging that concentrates on the brain. Neuroimaging is used to diagnose disease and assess the health of the brain. It can also be useful in the study of the brain, how it works, and how different activities affect the brain.
+
+Neuroinformatics – integrates data across all areas of neuroscience, to help understand the brain and treat diseases. Neuroinformatics involves acquiring data, sharing, publishing and storing information, analysis, modeling, and simulation.
+
+Neurolinguistics – studying what neural mechanisms in the brain control the acquisition, comprehension and utterance of language.
+
+Neurophysiology– looks at the relationship of the brain and its functions, and the sum of the body’s parts and how they interrelate. The study of how the nervous system functions, typically using physiological techniques, such as stimulation with electrodes, light-sensitive channels, or ion- or voltage-sensitive dyes.
+
+Paleoneurology – the study of the brain using fossils.
+
+Social neuroscience – this is an interdisciplinary field dedicated to understanding how biological systems implement social processes and behavior. Social neuroscience gathers biological concepts and methods to inform and refine theories of social behavior. It uses social and behavioral concepts and data to refine neural organization and function theories.
+
+Systems neuroscience – follows the pathways of data flow within the CNS (central nervous system) and tries to define the kinds of processing going on there. It uses that information to explain behavioral functions.
